@@ -6,7 +6,6 @@
 <link href="css/estilos.css" rel="stylesheet" type="text/css">
 </head>
 <body>
-<h1>Proyecto empresarial</h1>
-  <p>Este es un parrafo de muestra</p>
+<h1>Proyecto empresarial</h1>  
 </body>
 </html>
