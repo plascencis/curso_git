@@ -7,5 +7,6 @@
 </head>
 <body>
 <h1>Proyecto empresarial</h1>
+  <p>Este es un parrafo de muestra</p>
 </body>
 </html>
