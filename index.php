@@ -10,7 +10,11 @@
 
 <body>
 
-  <p>Este es el primer párrafo del documento html</p>
 
+
+
+  <p>Otro párrafo</p>
+
+  <p>Este es el párrafo creado desde diseñador 1</p>
 </body>
 </html>
